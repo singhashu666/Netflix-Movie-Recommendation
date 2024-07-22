@@ -27,9 +27,6 @@ You will need Git installed on your computer.
 
 Then From your terminal, you should do the following:
 
-# Clone this repository
-git clone https://github.com/garg-priya-creator/Netflix-Recommendation-System.git
-
 # Go into the repository
 cd netflix-recommendation-system
 
